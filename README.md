@@ -81,7 +81,7 @@ Choose one option:
 - Managing edge cases in data structures
 
 ## 🖥 Program Screenshot
-
+![Playlist Menu](menu.png)
 
 ## ▶️ How to Run
 
