@@ -85,7 +85,7 @@ Choose one option:
 
 Example output after loading songs and viewing the playlist:
 
-![Playlist View](playlist-view.png)
+![Playlist View](Playlist-view.png)
 
 ## ▶️ How to Run
 
