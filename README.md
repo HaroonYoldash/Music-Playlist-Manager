@@ -83,13 +83,22 @@ Choose one option:
 ## 🖥 Program Screenshot
 ![Playlist Menu](menu.png)
 
+Example output after loading songs and viewing the playlist:
+
+![Playlist View](playlist-view.png)
+
 ## ▶️ How to Run
 
 1. Clone the repository
 2. Open the project in Visual Studio
 3. Run the program
-4. Choose an option from the menu to manage the playlist
+4. Select option **1** to load songs from the CSV file
+5. Enter the file name:
 
-The program loads songs from a CSV file and stores them using a singly linked list.
+songs_dataset.csv
+
+6. After loading the songs, you can view and manage the playlist using the menu options.
+
+The program loads songs from a CSV file and stores them using a custom singly linked list.
 
 
